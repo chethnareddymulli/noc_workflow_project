@@ -1,0 +1,8 @@
+ERROR 1698 (28000): Access denied for user 'root'@'localhost'
+/home/parrot/noc_workflow_project/scripts/send_notification.sh: line 13: [: : integer expression expected
+No critical/escalated tickets.
+ERROR 1698 (28000): Access denied for user 'root'@'localhost'
+/home/parrot/noc_workflow_project/scripts/send_notification.sh: line 13: [: : integer expression expected
+No critical/escalated tickets.
+/home/parrot/noc_workflow_project/scripts/send_notification.sh: line 10: syntax error near unexpected token `('
+/home/parrot/noc_workflow_project/scripts/send_notification.sh: line 10: `SELECT COUNT(*) FROM noc_tickets WHERE status='Escalated' OR severity='Critical';'

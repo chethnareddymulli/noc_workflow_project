@@ -1,0 +1,13 @@
+ERROR 1698 (28000): Access denied for user 'root'@'localhost'
+❌ /tmp/temp_report.csv not found; SELECT INTO OUTFILE may have failed.
+ERROR 1698 (28000): Access denied for user 'root'@'localhost'
+❌ /tmp/temp_report.csv not found; SELECT INTO OUTFILE may have failed.
+ERROR 1698 (28000): Access denied for user 'root'@'localhost'
+/home/parrot/noc_workflow_project/scripts/generate_report.sh: line 17: USE: command not found
+/home/parrot/noc_workflow_project/scripts/generate_report.sh: line 18: SELECT: command not found
+/home/parrot/noc_workflow_project/scripts/generate_report.sh: line 19: FROM: command not found
+/home/parrot/noc_workflow_project/scripts/generate_report.sh: line 20: ORDER: command not found
+/home/parrot/noc_workflow_project/scripts/generate_report.sh: line 21: INTO: command not found
+/home/parrot/noc_workflow_project/scripts/generate_report.sh: line 22: FIELDS: command not found
+/home/parrot/noc_workflow_project/scripts/generate_report.sh: line 23: ENCLOSED: command not found
+/home/parrot/noc_workflow_project/scripts/generate_report.sh: line 31: unexpected EOF while looking for matching `"'
